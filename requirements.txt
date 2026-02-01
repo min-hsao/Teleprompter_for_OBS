@@ -1,0 +1,2 @@
+# OBS Python script - uses obspython module provided by OBS Studio
+# No external dependencies required
